@@ -3,3 +3,26 @@ background: url("hassan1.jpg") ;
 Background-repeat: no-repeat;
 
 }
+
+
+
+
+
+
+
+.logoimage img {
+  width: 100px;
+  height: 100px;
+  display block;
+  margin: 0 auto;
+  float: right;
+}
+
+
+.logo1 img {
+  width: 100px;
+  height: 100px;
+  display block;
+  margin: 0 auto;
+  float: left;
+}
