@@ -4,7 +4,9 @@ Background-repeat: no-repeat;
 
 }
 
-
+li {
+  color: red;
+}
 
 
 .logoimage img {
